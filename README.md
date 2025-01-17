@@ -109,7 +109,7 @@ You are now ready to get your VCF on! 😁
     * Storage
         * Ability to provision up to 1.25 TB of storage
 
-        **Note:** For detailed requirements, plesae refer to the planning and preparation workbook [here](https://docs.vmware.com/en/VMware-Cloud-Foundation/5.1/vcf-planning-and-preparation-workbook.zip)
+        **Note:** For detailed requirements, please refer to the planning and preparation workbook [here](https://docs.vmware.com/en/VMware-Cloud-Foundation/5.1/vcf-planning-and-preparation-workbook.zip)
 * VMware Cloud Foundation 5.x Licenses for vCenter, ESXi, vSAN and NSX-T (VCF 5.1.1 or later supports [License Later](https://williamlam.com/2024/03/enabling-license-later-evaluation-mode-for-vmware-cloud-foundation-vcf-5-1-1.html) feature, so license keys are now optional)
 * Desktop (Windows, Mac or Linux) with latest PowerShell Core and PowerCLI 12.1 Core installed. See [instructions here](https://blogs.vmware.com/PowerCLI/2018/03/installing-powercli-10-0-0-macos.html) for more details
 
